@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kabi Gadal</h1>
+<h1 align="start">Hi 👋, I'm Kabi Gadal</h1>
 <h3 align="start">I'm an aspiring full-stack web developer who is enthusiastic and passionate about finding solutions to problems. A quick learner, keen to explore new things with a positive approach.
   
   
