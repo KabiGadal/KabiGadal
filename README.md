@@ -13,7 +13,7 @@
 <a href="https://fb.com/https://www.facebook.com/raanu.rudrakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raanu.rudrakz" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/raneshgadal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raneshgadal/" height="30" width="40" /></a>
 <a href="https://medium.com/@gadalkabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gadalkabi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uce7p6mcmc9ord09mzly6rxw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uce7p6mcmc9ord09mzly6rxw/featured" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uce7p6mcmc9ord09mzly6rxw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uce7p6mcmc9ord09mzly6rxw/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
